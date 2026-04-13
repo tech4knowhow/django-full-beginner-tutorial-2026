@@ -35,24 +35,6 @@ Django is a **high-level Python web framework** that enables rapid development, 
 ✔ SQLite (default) + SQL Server support  
 ✔ Clean project structure  
 
-## 🏗️ Project Structure
-
-demoapp/
-│── demoapp/
-│   ├── **init**.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│
-│── appone/
-│   ├── models.py
-│   ├── admin.py
-│
-│── db.sqlite3
-│── manage.py
-
-
 ## 🛠️ Installation Guide
 
 ### 1️⃣ Install Python
